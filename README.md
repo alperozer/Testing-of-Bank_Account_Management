@@ -1,2 +1,5 @@
-# Testing-of-bank-account-manage-
-the project  for University course-SE318
+This project has been developing for SE 318 course in Izmir University of Economics Spring Semester of 2018-2019 year. Contributors of the project are Alper Özer, Demet Hacıbeyli, Sami Anıl Ertekin and Ece Davascan.
+
+The project is about Bank Account Management System. The importance is that online banking is one of the fast growing ﬁled on internet. Because of high security features and fast and accurate money transaction is creating scope for fast growth. This project is an application for maintaining a person’s account in a bank. To develop a project for solving financial applications of a customer in banking environment in order to nurture the needs of an end banking user by providing various ways to perform banking tasks. Also to enable the users work space to have additional functionalities. Main aim of this project is to develop a simple banking software application through which users can add account, depositing money into account, withdraw money from the account, request for balance amount available in their account, providing transactions details, displaying menu and existing from the system. Also, there are some requirements for maximum starting time, response time, minimum ram size, cpu speed, hdd size and suitability.
+
+Main aim for the progress of the project is testing and updating. Therefore every week the materials, code and testing is checked and updated according to the requests of the course assistant.
